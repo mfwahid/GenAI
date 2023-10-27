@@ -1,1 +1,3 @@
-New GenAI application
+New GenAI application 
+
+With embeddings
